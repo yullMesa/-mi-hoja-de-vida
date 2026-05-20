@@ -1,9 +1,13 @@
 /* Variables CSS */
 
 :root {
-    --color-primario: #2c3e50;
-    --color-secundario: #3498db;
-    /* ... más variables ... */
+    /* Cambia estos a tus colores */
+    --color-primario: #1e3a8a;      /* Azul marino */
+    --color-secundario: #0ea5e9;    /* Azul cielo */
+    --color-acento: #dc2626;        /* Rojo */
+    --color-exito: #10b981;         /* Verde */
+    
+    /* ... resto de variables ... */
 }
 
 /* Estilos globales */
